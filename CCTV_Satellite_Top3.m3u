@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视",CCTV2财经 [线路1]
-http://123.149.78.254:7788/631780532
-#EXTINF:-1 group-title="央视",CCTV2财经 [线路2]
-http://120.4.118.150:1234/631780532
-#EXTINF:-1 group-title="央视",CCTV2财经 [线路3]
-http://113.98.11.46:3000/631780532
 #EXTINF:-1 group-title="央视",CCTV1综合 [线路1]
 http://222.134.19.49:8090/608807420
 #EXTINF:-1 group-title="央视",CCTV1综合 [线路2]
 http://113.98.11.46:3000/608807420
 #EXTINF:-1 group-title="央视",CCTV1综合 [线路3]
 http://123.149.78.254:7788/608807420
+#EXTINF:-1 group-title="央视",CCTV2财经 [线路1]
+http://123.149.78.254:7788/631780532
+#EXTINF:-1 group-title="央视",CCTV2财经 [线路2]
+http://120.4.118.150:1234/631780532
+#EXTINF:-1 group-title="央视",CCTV2财经 [线路3]
+http://113.98.11.46:3000/631780532
 #EXTINF:-1 group-title="央视",CCTV3综艺 [线路1]
 http://120.4.118.150:1234/624878271
 #EXTINF:-1 group-title="央视",CCTV3综艺 [线路2]
