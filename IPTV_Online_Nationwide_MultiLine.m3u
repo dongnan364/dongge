@@ -1,0 +1,583 @@
+#EXTM3U
+#EXTINF:-1,CCTV-2 [线路1] [IPTV | 1920x1080 | 较差34.0分]
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000061
+#EXTINF:-1,CCTV3 高清 [线路1] [IPTV | 19x24 | 优秀84.6分]
+http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv3&videoTVChannel=cctv3&P2PChannelID=pd://cctv_p2p_hdcctv3&tai=cctv1&VideoName=cctv1&channelID=cctv3
+#EXTINF:-1,CCTV-4 [线路1] [IPTV | 未知分辨率 | 较差45.5分]
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000063
+#EXTINF:-1,CCTV-7 [线路1] [IPTV | 1920x1080 | 较差42.9分]
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000127
+#EXTINF:-1,CCTV-11 [线路1] [IPTV | 1920x1080 | 一般48.0分]
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000130
+#EXTINF:-1,CCTV-14 [线路1] [IPTV | 未知分辨率 | 较差31.3分]
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000132
+#EXTINF:-1,CCTV-15 [线路1] [IPTV | 未知分辨率 | 较差16.9分]
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000133
+#EXTINF:-1,CCTV-17 [线路1] [IPTV | 1920x1080 | 较差12.4分]
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000204
+#EXTINF:-1,CCTV+ Channel 1 [线路1] [IPTV | 1066x600 | 较差22.2分]
+http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
+#EXTINF:-1,CCTV+ Channel 2 [线路1] [IPTV | 1066x600 | 较差21.3分]
+http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
+#EXTINF:-1,CCTV移动 [线路1] [IPTV | 未知分辨率 | 较差31.2分]
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
+#EXTINF:-1,人间卫视 [线路1] [IPTV | 1280x720 | 较差27.0分]
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1,Arirang Korea [线路1] [IPTV | 1920x1080 | 较差21.1分]
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Bloomberg Asia [线路1] [IPTV | 未知分辨率 | 较差20.0分]
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1,Bloomberg US [线路1] [IPTV | 未知分辨率 | 较差21.2分]
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1,CRI NEWS Plus AM846 [线路1] [IPTV | 未知分辨率 | 较差43.2分]
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1,CRI 中文环球广播 [线路1] [IPTV | 未知分辨率 | 较差42.5分]
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1,CRI 南海之声 [线路1] [IPTV | 未知分辨率 | 较差42.6分]
+http://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1,CRI 海峡飞虹 [线路1] [IPTV | 未知分辨率 | 较差42.6分]
+http://sk.cri.cn/hxfh.m3u8
+#EXTINF:-1,CRI 环球资讯广播 FM90.5 [线路1] [IPTV | 未知分辨率 | 较差42.7分]
+http://sk.cri.cn/905.m3u8
+#EXTINF:-1,MBC [线路1] [IPTV | 1280x720 | 较差15.9分]
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1,NDTV 24X7 [线路1] [IPTV | 1280x720 | 一般51.4分]
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1,RFI 法國國際廣播電臺 [线路1] [IPTV | 未知分辨率 | 较差15.0分]
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+#EXTINF:-1,Russia Today Documentary HD [RUS] [线路1] [IPTV | 未知分辨率 | 较差7.3分]
+https://uiptv.do.am/1ufc/300663722/playlist.m3u8#http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1,Россия 24 [线路1] [IPTV | 未知分辨率 | 较差1.4分]
+http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:-1,万盛新闻综合 [线路1] [IPTV | 1920x1080 | 较差2.9分]
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1,万载综合 [线路1] [IPTV | 1024x576 | 较差31.9分]
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1,万载综合 [线路2] [IPTV | 未知分辨率 | 较差30.3分]
+http://ls.qingting.fm/live/273.m3u8
+#EXTINF:-1,上虞文化影院 [线路1] [IPTV | 1920x1080 | 较差24.2分]
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+#EXTINF:-1,上虞新商都 [线路1] [IPTV | 1920x1080 | 较差24.0分]
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+#EXTINF:-1,上虞新商都 [线路2] [IPTV | 1920x1080 | 较差17.0分]
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1,上虞新闻综合 [线路1] [IPTV | 1920x1080 | 较差23.8分]
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+#EXTINF:-1,东丰综合 [线路1] [IPTV | 720x576 | 较差28.2分]
+http://stream5.jlntv.cn/df/sd/live.m3u8
+#EXTINF:-1,东辽综合 [线路1] [IPTV | 720x576 | 较差27.5分]
+http://stream5.jlntv.cn/dl/sd/live.m3u8
+#EXTINF:-1,丽水云和综合 [线路1] [IPTV | 1280x720 | 较差20.7分]
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+#EXTINF:-1,丽水庆元综合 [线路1] [IPTV | 1920x1080 | 较差19.4分]
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+#EXTINF:-1,丽水松阳综合 [线路1] [IPTV | 1920x1080 | 较差19.4分]
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
+#EXTINF:-1,丽水缙云综合 [线路1] [IPTV | 1280x720 | 较差20.6分]
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+#EXTINF:-1,丽水遂昌综合 [线路1] [IPTV | 1920x1080 | 较差19.3分]
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+#EXTINF:-1,丽水青田综合 [线路1] [IPTV | 1920x1080 | 较差19.9分]
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+#EXTINF:-1,丽水龙泉综合 [线路1] [IPTV | 1920x1080 | 较差18.8分]
+http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+#EXTINF:-1,乐至综合 [线路1] [IPTV | 1920x1080 | 较差27.4分]
+http://175.155.106.72:89/live1/live1.m3u8
+#EXTINF:-1,乐至综合 [线路2] [IPTV | 1920x1080 | 较差26.2分]
+http://175.155.106.72:89/live1/live1.m3u8?zsicd
+#EXTINF:-1,云霄综合 [线路1] [IPTV | 1920x1080 | 较差28.2分]
+http://live.zzyxxw.com:85/live/xwzh.m3u8
+#EXTINF:-1,云霄综合 [线路2] [IPTV | 未知分辨率 | 较差5.3分]
+http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
+#EXTINF:-1,任丘综合 [线路1] [IPTV | 1920x1080 | 较差29.1分]
+https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+#EXTINF:-1,余姚姚江文化 [线路1] [IPTV | 720x576 | 较差25.1分]
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
+#EXTINF:-1,余姚新闻综合 [线路1] [IPTV | 1920x1080 | 较差19.8分]
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+#EXTINF:-1,余杭未来E频道 [线路1] [IPTV | 1920x1080 | 较差19.8分]
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
+#EXTINF:-1,余杭综合频道 [线路1] [IPTV | 1920x1080 | 较差21.0分]
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+#EXTINF:-1,全国风景总览 [线路1] [IPTV | 1280x720 | 较差42.9分]
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,兰溪新闻综合 [线路1] [IPTV | 1280x720 | 较差23.5分]
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+#EXTINF:-1,兴隆综合频道 [线路1] [IPTV | 1920x1080 | 较差26.9分]
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+#EXTINF:-1,凤凰中文 [线路1] [IPTV | 0x540 | 较差40.8分]
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1,北京-中央电视塔东 [线路1] [IPTV | 1920x1080 | 较差42.8分]
+http://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,北京-水立方 [线路1] [IPTV | 1280x720 | 较差43.6分]
+http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,北京-黄花城水长城01 [线路1] [IPTV | 1280x720 | 较差42.5分]
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,北京-黄花城水长城02 [线路1] [IPTV | 1920x1080 | 较差42.7分]
+https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,北京-黄花城水长城03 [线路1] [IPTV | 1920x1080 | 较差43.0分]
+https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,南国都市 [线路1] [IPTV | 未知分辨率 | 较差36.2分]
+http://hls222.dszbdq.cn/gdgz.php?id=gzsh
+#EXTINF:-1,南宁公共 [线路1] [IPTV | 未知分辨率 | 较差40.4分]
+http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8?zguangxd
+#EXTINF:-1,南宁公共 [线路2] [IPTV | 未知分辨率 | 较差38.9分]
+http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+#EXTINF:-1,南宁影娱乐 [线路1] [IPTV | 未知分辨率 | 较差41.1分]
+http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8?zguangxd
+#EXTINF:-1,南宁影视 [线路1] [IPTV | 未知分辨率 | 较差42.1分]
+http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+#EXTINF:-1,南宁影视娱乐 [线路1] [IPTV | 未知分辨率 | 较差38.4分]
+http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+#EXTINF:-1,南宁新闻综合 [线路1] [IPTV | 未知分辨率 | 较差41.4分]
+http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
+#EXTINF:-1,南宁新闻综合 [线路2] [IPTV | 未知分辨率 | 较差38.2分]
+http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+#EXTINF:-1,南宁都市生活 [线路1] [IPTV | 未知分辨率 | 较差40.8分]
+http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8?zguangxd
+#EXTINF:-1,南宁都市生活 [线路2] [IPTV | 未知分辨率 | 较差38.4分]
+http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+#EXTINF:-1,古浪综合 [线路1] [IPTV | 未知分辨率 | 较差28.4分]
+https://play.kankanlive.com/live/1619400940821967.m3u8
+#EXTINF:-1,句容党建频道 [线路1] [IPTV | 768x576 | 较差4.5分]
+http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?zjiangsd
+#EXTINF:-1,句容影视 [线路1] [IPTV | 768x576 | 较差10.3分]
+http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
+#EXTINF:-1,句容影院频道 [线路1] [IPTV | 768x576 | 较差3.8分]
+http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8?zjiangsd
+#EXTINF:-1,句容新闻综合 [线路1] [IPTV | 1024x576 | 较差5.1分]
+http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8?zjiangsd
+#EXTINF:-1,句容生活 [线路1] [IPTV | 1024x576 | 较差5.4分]
+http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8
+#EXTINF:-1,句容生活频道 [线路2] [IPTV | 未知分辨率 | 较差5.0分]
+http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?zjiangsd
+#EXTINF:-1,固镇影视 [线路1] [IPTV | 720x576 | 较差28.7分]
+http://www.guzhenm.com:7004/hls/hd-live.m3u8
+#EXTINF:-1,固镇新闻 [线路1] [IPTV | 1920x1080 | 较差27.8分]
+http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
+#EXTINF:-1,固镇新闻 [线路2] [IPTV | 1920x1080 | 较差22.2分]
+http://www.guzhenm.com:7001/hls/hd-live.m3u8
+#EXTINF:-1,基地别墅① [线路1] [IPTV | 1280x720 | 较差43.3分]
+http://gcalic.v.myalicdn.com/gc/xiongmao09_1/index.m3u8
+#EXTINF:-1,基地别墅② [线路1] [IPTV | 1280x720 | 较差43.1分]
+http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
+#EXTINF:-1,基地幼儿园① [线路1] [IPTV | 1280x720 | 较差42.9分]
+http://gcalic.v.myalicdn.com/gc/xiongmao05_1/index.m3u8
+#EXTINF:-1,基地幼儿园② [线路1] [IPTV | 1280x720 | 较差43.1分]
+http://gcalic.v.myalicdn.com/gc/xiongmao06_1/index.m3u8
+#EXTINF:-1,基地幼年园① [线路1] [IPTV | 1280x720 | 较差43.0分]
+http://gcalic.v.myalicdn.com/gc/xiongmao03_1/index.m3u8
+#EXTINF:-1,基地幼年园② [线路1] [IPTV | 1280x720 | 较差43.2分]
+http://gcalic.v.myalicdn.com/gc/xiongmao04_1/index.m3u8
+#EXTINF:-1,基地成年园① [线路1] [IPTV | 1280x720 | 较差43.4分]
+http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
+#EXTINF:-1,基地成年园② [线路1] [IPTV | 1280x720 | 较差43.1分]
+http://gcalic.v.myalicdn.com/gc/xiongmao02_1/index.m3u8
+#EXTINF:-1,基地母子园① [线路1] [IPTV | 1280x720 | 较差43.1分]
+http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
+#EXTINF:-1,基地母子园② [线路1] [IPTV | 1280x720 | 较差43.1分]
+http://gcalic.v.myalicdn.com/gc/xiongmao08_1/index.m3u8
+#EXTINF:-1,大丰公共 [线路1] [IPTV | 未知分辨率 | 较差24.5分]
+http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
+#EXTINF:-1,大丰公共频道 [线路2] [IPTV | 未知分辨率 | 较差33.9分]
+http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8?zjiangsd
+#EXTINF:-1,大丰新闻 [线路1] [IPTV | 未知分辨率 | 较差30.2分]
+http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
+#EXTINF:-1,大丰麋鹿 [线路1] [IPTV | 1280x720 | 较差43.7分]
+http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
+#EXTINF:-1,天津-天津海河 [线路1] [IPTV | 1280x720 | 较差42.6分]
+https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,好消息综合台 [线路1] [IPTV | 未知分辨率 | 较差21.1分]
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1,如东新闻 [线路1] [IPTV | 未知分辨率 | 较差21.3分]
+http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
+#EXTINF:-1,如东新闻综合 [线路1] [IPTV | 未知分辨率 | 较差34.5分]
+http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?zjiangsd
+#EXTINF:-1,宁波余姚姚江 [线路1] [IPTV | 720x576 | 较差19.6分]
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1,宁波余姚生活 [线路1] [IPTV | 1920x1080 | 较差21.1分]
+http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+#EXTINF:-1,宁波余姚综合 [线路1] [IPTV | 1920x1080 | 较差16.4分]
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1,宁波象山综合 [线路1] [IPTV | 1280x720 | 较差19.4分]
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1,安徽-九华山 [线路1] [IPTV | 1280x720 | 较差43.0分]
+https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,安徽-九华山花台 [线路1] [IPTV | 1280x720 | 较差42.6分]
+https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,安徽-宏村南湖 [线路1] [IPTV | 1920x1080 | 较差42.8分]
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,安徽-西递牌坊 [线路1] [IPTV | 1280x720 | 较差43.1分]
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,安徽-黄山 [线路1] [IPTV | 1920x1080 | 较差42.8分]
+https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,安徽-黄山卧云峰 [线路1] [IPTV | 1920x1080 | 较差42.7分]
+https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,安徽-黄山始信新道 [线路1] [IPTV | 1280x720 | 较差42.2分]
+https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,安徽-黄山排云亭 [线路1] [IPTV | 1280x720 | 较差43.0分]
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,安徽-黄山飞来石 [线路1] [IPTV | 1920x1080 | 较差42.9分]
+https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,安徽-黟县芦村远眺 [线路1] [IPTV | 1280x720 | 较差42.9分]
+https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,山东-南天门 [线路1] [IPTV | 1280x720 | 较差42.9分]
+https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,山东-太平岭 [线路1] [IPTV | 1280x720 | 较差42.8分]
+https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,山东-泰山主峰 [线路1] [IPTV | 1280x720 | 较差43.1分]
+https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,山东-泰山十八盘 [线路1] [IPTV | 1920x1080 | 较差43.0分]
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,山东-泰山大观峰 [线路1] [IPTV | 1920x1080 | 较差42.9分]
+https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,山东-泰山玉皇顶 [线路1] [IPTV | 1920x1080 | 较差42.9分]
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,山东-白云亭悬崖 [线路1] [IPTV | 1280x720 | 较差42.8分]
+https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,山东-碧霞祠 [线路1] [IPTV | 1280x720 | 较差42.9分]
+https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,山西-悬空寺全景 [线路1] [IPTV | 1920x1080 | 较差43.0分]
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,嵊州新闻综合 [线路1] [IPTV | 1280x720 | 较差25.4分]
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
+#EXTINF:-1,巴中综合 [线路1] [IPTV | 1280x720 | 较差3.0分]
+http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+#EXTINF:-1,希望之聲中國廣播臺 [线路1] [IPTV | 未知分辨率 | 较差29.1分]
+https://livecast1.soundofhope.org:2087/soh-live
+#EXTINF:-1,希望之聲澳洲臺 [线路1] [IPTV | 未知分辨率 | 较差27.9分]
+https://livecast1.soundofhope.org:2087/SYDNEY
+#EXTINF:-1,希望之聲粵語臺 [线路1] [IPTV | 未知分辨率 | 较差30.1分]
+https://livecast1.soundofhope.org:2087/SF969
+#EXTINF:-1,希望之聲美國聯播網 [线路1] [IPTV | 未知分辨率 | 较差29.0分]
+https://livecast1.soundofhope.org:2087/bayvoice
+#EXTINF:-1,平川综合 [线路1] [IPTV | 未知分辨率 | 较差34.7分]
+https://play.kankanlive.com/live/1621842376245934.m3u8
+#EXTINF:-1,平湖新闻综合 [线路1] [IPTV | 1280x720 | 较差18.7分]
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
+#EXTINF:-1,平湖新闻综合 [线路2] [IPTV | 1280x720 | 较差15.2分]
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
+#EXTINF:-1,平湖民生休闲 [线路1] [IPTV | 1280x720 | 较差16.2分]
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+#EXTINF:-1,平湖民生休闲 [线路2] [IPTV | 1280x720 | 较差13.4分]
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
+#EXTINF:-1,广东-东莞中心广场 [线路1] [IPTV | 1920x1080 | 较差42.5分]
+https://gcalic.v.myalicdn.com/gc/zsslstpt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,张家港新闻 [线路1] [IPTV | 未知分辨率 | 较差22.6分]
+http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
+#EXTINF:-1,张家港新闻综合 [线路1] [IPTV | 未知分辨率 | 较差34.7分]
+http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?zjiangsd
+#EXTINF:-1,张家港民生 [线路1] [IPTV | 未知分辨率 | 较差23.5分]
+http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
+#EXTINF:-1,张家港民生频道 [线路2] [IPTV | 未知分辨率 | 较差35.1分]
+http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8?zjiangsd
+#EXTINF:-1,张家港综合 [线路1] [IPTV | 未知分辨率 | 较差27.7分]
+http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,徐州公共频道 [线路1] [IPTV | 未知分辨率 | 较差14.1分]
+http://stream3.huaihai.tv/xz4t/sd/live.m3u8
+#EXTINF:-1,徐州经济生活 [线路1] [IPTV | 未知分辨率 | 较差6.0分]
+http://stream3.huaihai.tv/xz2t/sd/live.m3u8
+#EXTINF:-1,怡然② [线路1] [IPTV | 1280x720 | 较差43.7分]
+http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+#EXTINF:-1,成都高清 [线路1] [IPTV | 1280x720 | 较差43.0分]
+http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
+#EXTINF:-1,文成二套 [线路1] [IPTV | 1280x720 | 较差18.1分]
+http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8
+#EXTINF:-1,文成综合 [线路1] [IPTV | 1280x720 | 较差21.1分]
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+#EXTINF:-1,新加坡中文台 [线路1] [IPTV | 1280x720 | 较差9.7分]
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+#EXTINF:-1,新加坡国际 [线路1] [IPTV | 1280x720 | 较差11.1分]
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1,新唐人大陸台 [线路1] [IPTV | 864x486 | 较差18.7分]
+http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
+#EXTINF:-1,新昌休闲影视 [线路1] [IPTV | 1920x1080 | 较差26.4分]
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1,无锡娱乐 [线路1] [IPTV | 1280x720 | 较差10.9分]
+http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd
+#EXTINF:-1,无锡娱乐 [线路2] [IPTV | 未知分辨率 | 较差6.0分]
+http://stream.thmz.com/wxtv2/sd/live.m3u8
+#EXTINF:-1,无锡娱乐 [线路3] [IPTV | 未知分辨率 | 较差1.1分]
+http://stream.thmz.com/wxtv2/playlist.m3u8
+#EXTINF:-1,无锡新闻综合 [线路1] [IPTV | 未知分辨率 | 较差10.7分]
+http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
+#EXTINF:-1,无锡新闻综合 [线路2] [IPTV | 未知分辨率 | 较差1.1分]
+http://stream.thmz.com/wxtv1/playlist.m3u8
+#EXTINF:-1,无锡生活 [线路1] [IPTV | 1280x720 | 较差12.4分]
+http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
+#EXTINF:-1,无锡生活 [线路2] [IPTV | 1280x720 | 较差6.0分]
+http://stream.thmz.com/wxtv4/sd/live.m3u8
+#EXTINF:-1,无锡生活 [线路3] [IPTV | 未知分辨率 | 较差1.2分]
+http://stream.thmz.com/wxtv4/playlist.m3u8
+#EXTINF:-1,无锡经济 [线路1] [IPTV | 1280x720 | 较差11.9分]
+http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
+#EXTINF:-1,无锡经济 [线路2] [IPTV | 1280x720 | 较差6.0分]
+http://stream.thmz.com/wxtv5/sd/live.m3u8
+#EXTINF:-1,无锡经济 [线路3] [IPTV | 1280x720 | 较差1.1分]
+http://stream.thmz.com/wxtv5/playlist.m3u8
+#EXTINF:-1,无锡都市资讯 [线路1] [IPTV | 1280x720 | 较差6.0分]
+http://stream.thmz.com/wxtv3/sd/live.m3u8
+#EXTINF:-1,无锡都市资讯 [线路2] [IPTV | 未知分辨率 | 较差11.5分]
+http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
+#EXTINF:-1,无锡都市资讯 [线路3] [IPTV | 1280x720 | 较差1.1分]
+http://stream.thmz.com/wxtv3/playlist.m3u8
+#EXTINF:-1,普陀新闻综合 [线路1] [IPTV | 1280x720 | 较差14.6分]
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1,杭州余杭平安 [线路1] [IPTV | 1280x720 | 较差17.9分]
+http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
+#EXTINF:-1,杭州余杭未来 [线路1] [IPTV | 1920x1080 | 较差21.2分]
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+#EXTINF:-1,杭州余杭综合 [线路1] [IPTV | 1920x1080 | 较差21.1分]
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+#EXTINF:-1,杭州萧山综合 [线路1] [IPTV | 720x576 | 较差14.6分]
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
+#EXTINF:-1,松潘新闻综合 [线路1] [IPTV | 1920x1080 | 较差30.1分]
+http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
+#EXTINF:-1,松潘新闻综合 [线路2] [IPTV | 1920x1080 | 较差28.4分]
+http://live.spccmc.com:90/live/spxwzh.m3u8
+#EXTINF:-1,桦甸综合 [线路1] [IPTV | 720x576 | 较差24.5分]
+http://stream10.jlntv.cn/huadian/sd/live.m3u8
+#EXTINF:-1,武义新闻综合 [线路1] [IPTV | 720x576 | 较差21.3分]
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
+#EXTINF:-1,武乡新闻综合 [线路1] [IPTV | 1280x720 | 较差2.2分]
+http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
+#EXTINF:-1,武胜综合 [线路1] [IPTV | 未知分辨率 | 较差39.7分]
+http://live2.gatv.com.cn:86/live/WS.m3u8
+#EXTINF:-1,武进新闻频道 [线路1] [IPTV | 未知分辨率 | 较差3.3分]
+https://live.wjyanghu.com/live/CH1.m3u8?zjiangsd
+#EXTINF:-1,武进生活频道 [线路1] [IPTV | 未知分辨率 | 较差3.4分]
+https://live.wjyanghu.com/live/CH2.m3u8?zjiangsd
+#EXTINF:-1,永吉综合频道 [线路1] [IPTV | 720x576 | 较差27.9分]
+http://stream10.jlntv.cn/yongji/sd/live.m3u8
+#EXTINF:-1,江源综合 [线路1] [IPTV | 720x576 | 较差28.2分]
+http://stream10.jlntv.cn/jiangyuantv/sd/live.m3u8
+#EXTINF:-1,江苏-南京牛首山 [线路1] [IPTV | 1280x720 | 较差42.8分]
+https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,江苏-南京玄武湖公园 [线路1] [IPTV | 1280x720 | 较差42.7分]
+https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,江苏-徐州云龙湖观景台西 [线路1] [IPTV | 1920x1080 | 较差42.6分]
+https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,江苏-无锡鼋头渚赏樱阁 [线路1] [IPTV | 1920x1080 | 较差43.1分]
+https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,江阴新闻综合 [线路1] [IPTV | 未知分辨率 | 较差28.7分]
+http://221.228.70.101:8080/live/xinwen.m3u8
+#EXTINF:-1,汶川新闻综合 [线路1] [IPTV | 未知分辨率 | 较差40.2分]
+http://live.iwcmt.cn:90/live/zhxw.m3u8
+#EXTINF:-1,汶川新闻综合 [线路2] [IPTV | 未知分辨率 | 较差39.5分]
+http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
+#EXTINF:-1,沭阳综合频道 [线路1] [IPTV | 未知分辨率 | 较差23.4分]
+http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd
+#EXTINF:-1,河南-八里沟天界山玻璃栈道 [线路1] [IPTV | 1920x1080 | 较差42.7分]
+https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,河南-八里沟桃花湾瀑布 [线路1] [IPTV | 1920x1080 | 较差43.0分]
+https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,泸县新闻综合 [线路1] [IPTV | 1920x1080 | 较差24.2分]
+http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
+#EXTINF:-1,洞头综合频道 [线路1] [IPTV | 720x540 | 较差18.8分]
+http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
+#EXTINF:-1,浙江-乌镇全景 [线路1] [IPTV | 1920x1080 | 较差42.7分]
+https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,浙江-乌镇蓝印花布 [线路1] [IPTV | 1280x720 | 较差43.2分]
+https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,浙江-乌镇西市河 [线路1] [IPTV | 1280x720 | 较差42.8分]
+https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,浙江-乌镇龙形田 [线路1] [IPTV | 1280x720 | 较差42.7分]
+https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,浙江-普陀山 [线路1] [IPTV | 1920x1080 | 较差43.1分]
+https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,浙江-舟山东极岛 [线路1] [IPTV | 1280x720 | 较差42.7分]
+https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,清河经济综艺 [线路1] [IPTV | 1920x1080 | 较差29.6分]
+https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+#EXTINF:-1,温州永嘉综合 [线路1] [IPTV | 1920x1080 | 较差18.9分]
+http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+#EXTINF:-1,湖北-武汉黄鹤楼 [线路1] [IPTV | 1280x720 | 较差42.9分]
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,湖北-龙王庙 [线路1] [IPTV | 1280x720 | 较差42.7分]
+https://gcalic.v.myalicdn.com/gc/hnttbdjd_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,湖南-凤凰古城东关门 [线路1] [IPTV | 1920x1080 | 较差43.2分]
+https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,湖南-凤凰古城南华山 [线路1] [IPTV | 1920x1080 | 较差43.1分]
+https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,湖南-天门山西线玻璃栈道 [线路1] [IPTV | 1920x1080 | 较差42.7分]
+https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,湖南-宝峰湖 [线路1] [IPTV | 1280x720 | 较差42.8分]
+https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,湖南-张家界将军列队 [线路1] [IPTV | 1280x720 | 较差43.1分]
+https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,湖南-张家界水绕四门 [线路1] [IPTV | 1920x1080 | 较差42.8分]
+https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,湖南-张家界迷魂台 [线路1] [IPTV | 1280x720 | 较差42.6分]
+https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,澳门莲花 [线路1] [IPTV | 未知分辨率 | 较差24.5分]
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1,灵璧综合 [线路1] [IPTV | 640x480 | 较差25.6分]
+http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
+#EXTINF:-1,灵璧综合 [线路2] [IPTV | 640x480 | 较差17.9分]
+http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
+#EXTINF:-1,烟台公共 [线路1] [IPTV | 1280x720 | 较差15.5分]
+http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8?shandd
+#EXTINF:-1,烟台公共频道 [线路2] [IPTV | 1280x720 | 较差5.7分]
+http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
+#EXTINF:-1,烟台影 [线路1] [IPTV | 1280x720 | 较差13.2分]
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+#EXTINF:-1,烟台影视 [线路1] [IPTV | 1280x720 | 较差29.7分]
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+#EXTINF:-1,烟台影视频道 [线路2] [IPTV | 1280x720 | 较差17.5分]
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+#EXTINF:-1,烟台新闻综合 [线路1] [IPTV | 1280x720 | 较差18.2分]
+http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
+#EXTINF:-1,烟台新闻综合 [线路2] [IPTV | 1280x720 | 较差17.2分]
+http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
+#EXTINF:-1,烟台经济科技 [线路1] [IPTV | 1280x720 | 较差17.1分]
+http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
+#EXTINF:-1,烟台经济科技 [线路2] [IPTV | 1280x720 | 较差16.0分]
+http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
+#EXTINF:-1,熱血時報 [线路1] [IPTV | 未知分辨率 | 较差30.4分]
+http://ptmirror3.passiontimes.hk/hls3/582000/stream.m3u8
+#EXTINF:-1,璧山综合 [线路1] [IPTV | 1920x1080 | 较差37.1分]
+http://222.179.42.129:8181/hls1.m3u8
+#EXTINF:-1,白山公共 [线路1] [IPTV | 720x576 | 较差24.1分]
+http://stream8.jlntv.cn/baishan2/playlist.m3u8
+#EXTINF:-1,白马雪山 [线路1] [IPTV | 1280x720 | 较差43.4分]
+http://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
+#EXTINF:-1,礼县综合 [线路1] [IPTV | 未知分辨率 | 较差28.9分]
+https://play.kankanlive.com/live/1621416463200961.m3u8
+#EXTINF:-1,福州少儿 [线路1] [IPTV | 1920x1080 | 较差6.2分]
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1,福州新闻 [线路1] [IPTV | 1920x1080 | 较差12.5分]
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1,福州生活 [线路1] [IPTV | 1920x1080 | 较差15.1分]
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1,福建-厦门鼓浪屿 [线路1] [IPTV | 1920x1080 | 较差42.4分]
+https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,福建-武夷山玉女峰 [线路1] [IPTV | 1280x720 | 较差42.5分]
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,福建-醉美沙滩翡翠湾 [线路1] [IPTV | 1920x1080 | 较差42.6分]
+https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,绍兴上虞影视 [线路1] [IPTV | 1920x1080 | 较差16.2分]
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1,绍兴上虞综合 [线路1] [IPTV | 1920x1080 | 较差16.5分]
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1,绍兴公共 [线路1] [IPTV | 1280x720 | 较差21.8分]
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1,绍兴嵊州综合 [线路1] [IPTV | 1280x720 | 较差16.3分]
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1,绍兴影视 [线路1] [IPTV | 1280x720 | 较差32.5分]
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1,绍兴文化影视 [线路1] [IPTV | 1280x720 | 较差23.2分]
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1,绍兴文化影院 [线路1] [IPTV | 1280x720 | 较差28.7分]
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+#EXTINF:-1,绍兴新闻综合 [线路1] [IPTV | 1280x720 | 较差31.0分]
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
+#EXTINF:-1,绍兴新闻综合 [线路2] [IPTV | 未知分辨率 | 较差31.5分]
+http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
+#EXTINF:-1,绍兴新闻综合 [线路3] [IPTV | 1280x720 | 较差17.5分]
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+#EXTINF:-1,耀才财经 [线路1] [IPTV | 1024x576 | 较差2.7分]
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1,舟山嵊泗综合 [线路1] [IPTV | 720x576 | 较差17.4分]
+http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
+#EXTINF:-1,舟曲新闻综合 [线路1] [IPTV | 未知分辨率 | 较差35.8分]
+https://play.kankanlive.com/live/1631185650131909.m3u8
+#EXTINF:-1,苍南新闻综合 [线路1] [IPTV | 1920x1080 | 较差18.1分]
+http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+#EXTINF:-1,范县新闻综合 [线路1] [IPTV | 480x270 | 较差30.2分]
+http://live.dxhmt.cn:9080/13603832636/13abd3089d9c47058fe34c49a6182981.m3u8
+#EXTINF:-1,荣昌综合 [线路1] [IPTV | 720x404 | 较差37.7分]
+http://183.64.181.25:40023/rongchang01.m3u8
+#EXTINF:-1,菏泽新闻综合 [线路1] [IPTV | 未知分辨率 | 较差22.5分]
+http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
+#EXTINF:-1,菏泽经济生活 [线路1] [IPTV | 1280x720 | 较差22.5分]
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
+#EXTINF:-1,营山电视台 [线路1] [IPTV | 1280x720 | 较差25.5分]
+http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+#EXTINF:-1,营山电视台 [线路2] [IPTV | 1280x720 | 较差24.3分]
+http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
+#EXTINF:-1,萧山新闻综合 [线路1] [IPTV | 1280x720 | 较差20.7分]
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1,萧山新闻综合 [线路2] [IPTV | 1280x720 | 较差3.6分]
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+#EXTINF:-1,萧山生活频道 [线路1] [IPTV | 1280x720 | 较差20.4分]
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1,萧山生活频道 [线路2] [IPTV | 1280x720 | 较差20.3分]
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+#EXTINF:-1,衡山 [线路1] [IPTV | 1280x720 | 较差32.6分]
+http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+#EXTINF:-1,衢州开化综合 [线路1] [IPTV | 1280x720 | 较差15.4分]
+http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
+#EXTINF:-1,衢州衢江综合 [线路1] [IPTV | 1920x1080 | 较差16.0分]
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+#EXTINF:-1,衢州龙游生活 [线路1] [IPTV | 1280x720 | 较差9.5分]
+https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+#EXTINF:-1,衢州龙游综合 [线路1] [IPTV | 1280x720 | 较差9.1分]
+https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+#EXTINF:-1,西和综合 [线路1] [IPTV | 未知分辨率 | 较差32.0分]
+https://play.kankanlive.com/live/1626051451895935.m3u8
+#EXTINF:-1,西宁新闻 [线路1] [IPTV | 1920x1080 | 较差6.4分]
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1,诸暨新闻综合 [线路1] [IPTV | 1920x1080 | 较差25.0分]
+http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
+#EXTINF:-1,诸暨新闻综合 [线路2] [IPTV | 1920x1080 | 较差18.9分]
+http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
+#EXTINF:-1,辉南新闻综合 [线路1] [IPTV | 720x576 | 较差26.2分]
+http://stream5.jlntv.cn/hn/sd/live.m3u8
+#EXTINF:-1,辽宁-沈阳金廊 [线路1] [IPTV | 1280x720 | 较差42.9分]
+https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,通化县综合 [线路1] [IPTV | 320x240 | 较差30.4分]
+http://stream5.jlntv.cn/thx/sd/live.m3u8
+#EXTINF:-1,通渭综合 [线路1] [IPTV | 未知分辨率 | 较差24.3分]
+https://play.kankanlive.com/live/1629944062210970.m3u8
+#EXTINF:-1,邯郸公共频道 [线路1] [IPTV | 1920x1080 | 较差24.0分]
+https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1,邯郸科技教育 [线路1] [IPTV | 1920x1080 | 较差25.2分]
+https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1,都江堰壹壹玖玖 [线路1] [IPTV | 1280x720 | 较差43.1分]
+http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
+#EXTINF:-1,都江堰妃妃 [线路1] [IPTV | 1280x720 | 较差43.3分]
+http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
+#EXTINF:-1,都江堰娅祥 [线路1] [IPTV | 1280x720 | 较差43.1分]
+http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
+#EXTINF:-1,都江堰水秀 [线路1] [IPTV | 1280x720 | 较差43.2分]
+http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
+#EXTINF:-1,都江堰瑞瑞 [线路1] [IPTV | 1280x720 | 较差43.3分]
+http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
+#EXTINF:-1,都江堰英英 [线路1] [IPTV | 1280x720 | 较差43.4分]
+http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
+#EXTINF:-1,都江堰青青 [线路1] [IPTV | 1280x720 | 较差43.6分]
+http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
+#EXTINF:-1,都江堰高清 [线路1] [IPTV | 1280x720 | 较差43.3分]
+http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
+#EXTINF:-1,金华东阳影视 [线路1] [IPTV | 未知分辨率 | 较差0.3分]
+http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1,金华东阳综合 [线路1] [IPTV | 1280x720 | 较差17.9分]
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1,金华兰溪综合 [线路1] [IPTV | 1280x720 | 较差18.6分]
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1,金华武义综合 [线路1] [IPTV | 720x576 | 较差19.0分]
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+#EXTINF:-1,金川综合 [线路1] [IPTV | 未知分辨率 | 较差29.4分]
+https://play.kankanlive.com/live/1625041962958919.m3u8
+#EXTINF:-1,镇江新闻综合 [线路1] [IPTV | 未知分辨率 | 较差5.4分]
+http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1,长白山电视台 [线路1] [IPTV | 320x240 | 较差29.7分]
+http://stream8.jlntv.cn/cbstv/sd/live.m3u8
+#EXTINF:-1,靖江新闻综合 [线路1] [IPTV | 1280x720 | 较差1.7分]
+http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
+#EXTINF:-1,香港J2频道 [线路1] [IPTV | 1920x1080 | 较差23.2分]
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1,香港電台普通話台 [线路1] [IPTV | 未知分辨率 | 较差30.8分]
+https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+#EXTINF:-1,鹤岗新闻综合 [线路1] [IPTV | 未知分辨率 | 较差33.6分]
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+#EXTINF:-1,黑水新闻综合 [线路1] [IPTV | 1920x1080 | 较差5.9分]
+http://live.schstv.com:90/live/xwzh.m3u8
+#EXTINF:-1,黑龙江-雪乡梦幻家园 [线路1] [IPTV | 1920x1080 | 较差43.5分]
+https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,龙井综合 [线路1] [IPTV | 720x576 | 较差29.5分]
+http://stream8.jlntv.cn/ljtv/sd/live.m3u8
+#EXTINF:-1,龙游新闻综合 [线路1] [IPTV | 1280x720 | 较差18.9分]
+http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+#EXTINF:-1,龙游生活娱乐 [线路1] [IPTV | 1280x720 | 较差19.1分]
+http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
