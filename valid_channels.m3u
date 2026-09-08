@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 group-title="Captured",CCTV10 [1920x1080] [1328ms]
+http://192.151.150.154/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="Captured",CCTV11 [1920x1080] [1287ms]
+http://192.151.150.154/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="Captured",CCTV12 [1280x720] [4323ms]
+http://192.151.150.154/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="Captured",CCTV13 [1280x720] [1303ms]
+http://192.151.150.154/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="Captured",CCTV14 [1280x720] [1362ms]
+http://192.151.150.154/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="Captured",CCTV15 [1280x720] [1282ms]
+http://192.151.150.154/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="Captured",CCTV2 [1280x720] [1304ms]
+http://192.151.150.154/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="Captured",CCTV3 [1280x720] [1367ms]
+http://192.151.150.154/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="Captured",CCTV4 [1280x720] [1338ms]
+http://192.151.150.154/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="Captured",CCTV6 [1280x720] [1398ms]
+http://192.151.150.154/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="Captured",CCTV7 [1280x720] [1264ms]
+http://192.151.150.154/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="Captured",CCTV8 [1280x720] [1362ms]
+http://192.151.150.154/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="Captured",CCTV9 [1280x720] [1252ms]
+http://192.151.150.154/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="Captured",SNWS [1920x1080] [1346ms]
+http://192.151.150.154/live/snwshd.m3u8
+#EXTINF:-1 group-title="Captured",东方卫视 [1920x1080] [1315ms]
+http://192.151.150.154/live/dfwshd.m3u8
+#EXTINF:-1 group-title="Captured",东南卫视 [1920x1080] [1305ms]
+http://192.151.150.154/live/dnwshd.m3u8
+#EXTINF:-1 group-title="Captured",广东卫视 [1920x1080] [1295ms]
+http://192.151.150.154/live/gdwshd.m3u8
+#EXTINF:-1 group-title="Captured",广西卫视 [1920x1080] [1309ms]
+http://192.151.150.154/live/gxwshd.m3u8
+#EXTINF:-1 group-title="Captured",湖北卫视 [1920x1080] [3380ms]
+http://192.151.150.154/live/hbwshd.m3u8
+#EXTINF:-1 group-title="Captured",湖南卫视 [1920x1080] [1275ms]
+http://192.151.150.154/live/hnwshd.m3u8
+#EXTINF:-1 group-title="Captured",江苏卫视 [1920x1080] [1300ms]
+http://192.151.150.154/live/jswshd.m3u8
+#EXTINF:-1 group-title="Captured",辽宁卫视 [1278ms]
+http://192.151.150.154/live/lnwshd.m3u8
+#EXTINF:-1 group-title="Captured",南方卫视 [1280x720] [1260ms]
+http://192.151.150.154/live/nfws.m3u8
+#EXTINF:-1 group-title="Captured",青海卫视 [1920x1080] [1384ms]
+http://192.151.150.154/live/qhws.m3u8
+#EXTINF:-1 group-title="Captured",山东卫视 [1920x1080] [1357ms]
+http://192.151.150.154/live/sdwshd.m3u8
+#EXTINF:-1 group-title="Captured",深圳卫视 [1307ms]
+http://192.151.150.154/live/szwshd.m3u8
+#EXTINF:-1 group-title="Captured",天津卫视 [1920x1080] [1285ms]
+http://192.151.150.154/live/tjwshd.m3u8
+#EXTINF:-1 group-title="Captured",西藏卫视 [720x576] [1293ms]
+http://192.151.150.154/live/xzws.m3u8
+#EXTINF:-1 group-title="Captured",浙江卫视 [1920x1080] [1286ms]
+http://192.151.150.154/live/zjwshd.m3u8
+#EXTINF:-1 group-title="Captured",重庆卫视 [1920x1080] [1310ms]
+http://192.151.150.154/live/cqwshd.m3u8
